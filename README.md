@@ -17,6 +17,7 @@
 ### Students
 
 * Enrol for a course
+* Get a list of courses enrolled for
 * Cancel enrollments
 
 ![Static Badge](https://img.shields.io/badge/FastAPI-0.116.1-green?color=%23006400)
